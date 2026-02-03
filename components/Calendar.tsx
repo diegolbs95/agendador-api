@@ -80,7 +80,7 @@ export default function Calendar() {
       )
 
       window.open(
-        `https://wa.me/5581989617665?text=${mensagem}`,
+        `https://wa.me/5581998739155?text=${mensagem}`,
         '_blank'
       )
 
